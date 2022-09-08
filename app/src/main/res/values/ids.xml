@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_setting_gps_dialog" type="id">Settings</item>
+    <item name="btn_cancel_gps_dialog" type="id">Cancel</item>
+</resources>

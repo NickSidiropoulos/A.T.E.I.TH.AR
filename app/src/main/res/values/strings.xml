@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A.T.E.I.TH AR</string>
+    <string name="alert_message">Please enable GPS location method!</string>
+    <string name="btn_settings">Settings</string>
+    <string name="compassProb">Compass Problems</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="architect_error" translatable="false">Can\'t create architect view</string>
+    <string name="compassExp">Calibrate the compass if the labels not appear properly, as shown below.</string>
+    <string name="close">Close</string>
+    <string name="optionTitle">Select category to show</string>
+    <string name="all">All</string>
+    <string name="dioik">Administration and other places</string>
+    <string name="sdo">SDO</string>
+    <string name="seyp">SEYP</string>
+    <string name="steg">STEGTETROD</string>
+    <string name="stef">STEF</string>
+</resources>

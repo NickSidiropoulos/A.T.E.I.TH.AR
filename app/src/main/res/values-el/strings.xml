@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Α.Τ.Ε.Ι.Θ AR</string>
+    <string name="alert_message">Παρακαλώ ενεργοποιήστε το GPS στη συσκευή σας!</string>
+    <string name="btn_cancel">Άκυρο</string>
+    <string name="btn_settings">Ρυθμίσεις</string>
+    <string name="compassProb">Προβλήματα πυξίδας </string>
+    <string name="compassExp">Βαθμονομήστε τη πυξίδα αν δεν εμφανίζονται σωστά οι ετικέτες, όπως φαίνεται παρακάτω.</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="optionTitle">Επιλέξτε κατηγορία για εμφάνιση</string>
+    <string name="all">Όλα</string>
+    <string name="dioik">Διοίκηση και άλλα μέρη</string>
+    <string name="sdo">ΣΔΟ</string>
+    <string name="seyp">ΣΕΥΠ</string>
+    <string name="steg">ΣΤΕΓΤΕΤΡΟΔ</string>
+    <string name="stef">ΣΤΕΦ</string>
+</resources>
